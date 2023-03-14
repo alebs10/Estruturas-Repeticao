@@ -1,0 +1,8 @@
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.exe.config
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.pdb
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.csproj.AssemblyReference.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.pdb
